@@ -1,0 +1,5 @@
+Flask>=2.2
+Flask-SQLAlchemy>=3.0
+Flask-Cors>=3.0
+gunicorn>=20.1
+psycopg2-binary>=2.9  # 本番でPostgres使う場合に必要
